@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software engineering, software development
 - 🌱 I’m currently learning how to create websites and apps
 - 💞️ I’m looking to collaborate on creating apps like a chirstian app, journal app and more
-- 📫 How to reach me : You could reach me on LinkedIN www.linkedin.com/in/
-shania-g-627911223
+- 📫 How to reach me : You could reach me on LinkedIN https://www.linkedin.com/in/shania-gedeon/
 - ;) My hobbies are playing drums, journal, and self-learning.
 
 <!---
